@@ -10,10 +10,10 @@ Following are a couple of groups of links to data science resources that I've fo
 
 # Other Resources
 * Jonathan Bower has a great github repository of [Data Science Resources][7] that goes well beyond the foundational knowledge and skills development of the above links. The repo hasn't been updated for a couple of years, but there is a trove of valuable insight into potential career paths, types of work, etc.
-*I don't know how current or accurate many of the linked blogs are, but there's no shortage of options in [this list][8].
-*I still reference Yu Wu's [Free Data Science Books][9] repository despite it being some time since the last update. Tools, workflows, effort required, etc. change rapidly in the field, but the concepts remain the same and there are very good, specific resources listed there.
-*In a similar vein, Tirthajyoti Sarkar has a [Data Science Resources][10] repository that delves into the AI realm as well as specific tools and platforms.
-*Finally, there is a [Learn Data Science in 3 Months][11] repository that serves as companion to Siraj Raval's [YouTube Course][12]. I haven't followed this curriculum, but some peers have praised it as a primer and it has quite the following in both places.
+* I don't know how current or accurate many of the linked blogs are, but there's no shortage of options in [this list][8].
+* I still reference Yu Wu's [Free Data Science Books][9] repository despite it being some time since the last update. Tools, workflows, effort required, etc. change rapidly in the field, but the concepts remain the same and there are very good, specific resources listed there.
+* In a similar vein, Tirthajyoti Sarkar has a [Data Science Resources][10] repository that delves into the AI realm as well as specific tools and platforms.
+* Finally, there is a [Learn Data Science in 3 Months][11] repository that serves as companion to Siraj Raval's [YouTube Course][12]. I haven't followed this curriculum, but some peers have praised it as a primer and it has quite the following in both places.
 
 # 
 
